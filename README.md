@@ -67,3 +67,5 @@ Print a right angled triangle pattern of stars
 Count the occurrence of a letter in a list
 
 # enumerate() function
+it is used to access the index and the value of the elements of the list.
+use two variables in for loop.
