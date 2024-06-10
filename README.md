@@ -47,3 +47,11 @@ Finding the largest number in the list
 list = [1, 55, 22, 28, 93, 11, 33, 36, 32]
 
 
+# Loop control statements
+Control the flow of the loop, terminate the loop early if you want or skip over some iteration
+
+* Break statement
+Terminate loop immediately, moves to the next statement after the loop.
+
+* Continue statement
+Skips the rest of the code inside the loop for the current iteration and moves to the next iteration.
