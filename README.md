@@ -25,3 +25,25 @@ While the condition is met, keep executing the intended block. If not met, skip 
 Things to consider:
 * program can enter the loop
 * program can exit the loop
+
+## Range
+It a pre-defined function that generates a sequence of numbers.
+
+Useful: loops for interating a specific number of times over a sequence of numbers.
+
+range(starting, stopping, step)
+
+# For Loop
+For each item in a sequence, execute the intended statements.
+
+for variable_name in sequence:
+    state
+
+## Practice
+Finding the sum of the first 10 numbers (1,2,3,4,..,10)
+
+## Practice
+Finding the largest number in the list
+list = [1, 55, 22, 28, 93, 11, 33, 36, 32]
+
+
