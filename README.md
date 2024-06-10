@@ -55,3 +55,15 @@ Terminate loop immediately, moves to the next statement after the loop.
 
 * Continue statement
 Skips the rest of the code inside the loop for the current iteration and moves to the next iteration.
+
+# Nested Loops
+A loop inside another loop
+Useful for running over multidimensional structures like matrix.
+
+## Practice example
+Print a right angled triangle pattern of stars
+
+## Practice example 2
+Count the occurrence of a letter in a list
+
+# enumerate() function
